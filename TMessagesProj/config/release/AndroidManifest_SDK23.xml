@@ -21,8 +21,8 @@
 
     <application
         android:allowBackup="false"
-        android:icon="@mipmap/ic_launcher"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:icon="@mipmap/icon_3_launcher"
+        android:roundIcon="@mipmap/icon_3_launcher_round"
         android:label="@string/AppName"
         android:theme="@style/Theme.TMessages.Start"
         android:hardwareAccelerated="@bool/useHardwareAcceleration"
